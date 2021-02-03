@@ -32,7 +32,7 @@ E-commerce requires ways of  evaluating gaps in service delivery. Users being th
 The insights derived from our analysis of the dataset in this project will help to improve user experience and maximise sales.
 
 ## _Authors and Acknowledgment_ ##
-sgich, Vel688, cyruskimani,
+sgich, Vel688, cyruskimani, mgitongatm
 
 Assistance: Technical Mentors of Moringa School (Nairobi, Kenya).
 
