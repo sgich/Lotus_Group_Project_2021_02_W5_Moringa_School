@@ -15,6 +15,7 @@ E-commerce requires ways of  evaluating gaps in service delivery. Users being th
 ## _Platforms Used_ ##
 * Google Colab
 * Git/GitHub
+* Tableau
 
 
 ## _Technologies Used_ ##
@@ -41,7 +42,7 @@ Dataset: https://www.kaggle.com/jmmvutu/ecommerce-users-of-a-french-c2c-fashion-
 
 Project Report: https://drive.google.com/file/d/1Kr7a64OtvH2AvxgflZaPBTVFtlKmKZHP/view?ts=601b821a
 
-Tableau: https://public.tableau.com/views/Book1_16123446617080/Dashboard2?:language=en-GB&:display_count=y&publish=yes&:origin=viz_share_link
+Tableau: https://public.tableau.com/profile/stephen.g3683#!/vizhome/LOTUSGROUPPROJECT/Dashboard?publish=yes
 
 Project Presentation: https://docs.google.com/presentation/d/1ziV0fMY_oELTGC81RU2ZYKN-HZyMC3T-sKWmXFxAj4Y/edit?usp=sharing
 
