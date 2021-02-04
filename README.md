@@ -39,11 +39,11 @@ Assistance: Technical Mentors of Moringa School (Nairobi, Kenya).
 ## Links
 Dataset: https://www.kaggle.com/jmmvutu/ecommerce-users-of-a-french-c2c-fashion-store
 
-Project Report:https://drive.google.com/file/d/1Kr7a64OtvH2AvxgflZaPBTVFtlKmKZHP/view?ts=601b821a
+Project Report: https://drive.google.com/file/d/1Kr7a64OtvH2AvxgflZaPBTVFtlKmKZHP/view?ts=601b821a
 
 Tableau: https://public.tableau.com/views/Book1_16123446617080/Dashboard2?:language=en-GB&:display_count=y&publish=yes&:origin=viz_share_link
 
-Project Presentation:https://docs.google.com/presentation/d/1ziV0fMY_oELTGC81RU2ZYKN-HZyMC3T-sKWmXFxAj4Y/edit?usp=sharing
+Project Presentation: https://docs.google.com/presentation/d/1ziV0fMY_oELTGC81RU2ZYKN-HZyMC3T-sKWmXFxAj4Y/edit?usp=sharing
 
 ## License
 MIT © sgich
