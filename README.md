@@ -42,7 +42,7 @@ Dataset: https://www.kaggle.com/jmmvutu/ecommerce-users-of-a-french-c2c-fashion-
 
 Project Report: https://drive.google.com/file/d/1Kr7a64OtvH2AvxgflZaPBTVFtlKmKZHP/view?ts=601b821a
 
-Tableau: https://public.tableau.com/profile/stephen.g3683#!/vizhome/LOTUSGROUPPROJECT/Dashboard?publish=yes
+Tableau: https://public.tableau.com/views/LOTUSGROUPPROJECT/Dashboard?:language=en-GB&:display_count=y&publish=yes&:origin=viz_share_link
 
 Project Presentation: https://docs.google.com/presentation/d/1ziV0fMY_oELTGC81RU2ZYKN-HZyMC3T-sKWmXFxAj4Y/edit?usp=sharing
 
