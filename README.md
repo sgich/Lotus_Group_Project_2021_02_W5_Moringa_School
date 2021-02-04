@@ -36,6 +36,10 @@ sgich, Vel688, cyruskimani, mgitongatm
 
 Assistance: Technical Mentors of Moringa School (Nairobi, Kenya).
 
+## Links
+Project Report: 
+Tableau: https://public.tableau.com/views/Book1_16123446617080/Dashboard2?:language=en-GB&:display_count=y&publish=yes&:origin=viz_share_link
+Project Presentation:
 
 ## License
 MIT © sgich
